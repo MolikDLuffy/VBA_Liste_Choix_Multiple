@@ -1,6 +1,6 @@
 # VBA utilisation d'une liste à choix multiple
 
-    Je vous invite à aller voir ma vidéo : https://www.youtube.com/watch?v=FdINbxon1IE&list=PL1eCpY4dpfdxzhLeUG3YwQjR6PLXx_djO&index=8
+Je vous invite à aller voir ma vidéo : https://www.youtube.com/watch?v=FdINbxon1IE&list=PL1eCpY4dpfdxzhLeUG3YwQjR6PLXx_djO&index=8
 
     Option Explicit
     Dim i As Long

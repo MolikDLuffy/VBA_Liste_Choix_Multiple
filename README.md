@@ -2,6 +2,9 @@
 
 Je vous invite à aller voir ma vidéo : https://www.youtube.com/watch?v=FdINbxon1IE&list=PL1eCpY4dpfdxzhLeUG3YwQjR6PLXx_djO&index=8
 
+![image](https://github.com/MolikDLuffy/VBA_Liste_Choix_Multiple/assets/79248521/804583d5-157c-4c5c-aec2-c9f885faf5b0)
+
+
     Option Explicit
     Dim i As Long
     Dim sTemp As String
